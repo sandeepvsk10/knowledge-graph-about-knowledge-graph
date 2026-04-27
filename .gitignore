@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Cursor rules
+.cursorrules
+
+src/assets/content/ideas.md
+src/assets/content/projects.md
+src/assets/content/neo4j_learn.html
